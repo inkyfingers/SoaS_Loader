@@ -1,10 +1,10 @@
 [Activity]
-name = Help
-activity_version = 19
-bundle_id = org.laptop.HelpActivity
-icon = activity-help
-exec = sugar-activity helpactivity.HelpActivity
+name = SoaS Loader
+activity_version = 1
+bundle_id = org.sugarlabs.SoaSLoaderActivity
+icon = USB-icon
+exec = sugar-activity helpactivity1.HelpActivity
 license = GPLv3
-summary = Having trouble using your computer or an activity? Want to learn more? Just click here!
-categories = system
-repository = git@github.com:godiard/help-activity.git
+summary = Learn how to load Sugar on a Stick onto a USB stick.
+categories = 
+repository = git@github.com:inkyfingers/SoaS_Loader.git
