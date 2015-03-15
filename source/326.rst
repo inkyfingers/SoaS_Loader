@@ -1,0 +1,9 @@
+============
+Enter umount
+============
+
+The command will run with no output, and will return the prompt.
+
+The command was accepted and no error reported - fine.
+
+.. image :: ../images/326.png

@@ -1,0 +1,7 @@
+=============================
+For help in Terminal Activity
+=============================
+
+Press the Help icon in the centre of the tool bar.
+
+.. image :: ../images/022.png

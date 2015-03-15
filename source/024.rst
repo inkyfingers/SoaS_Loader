@@ -1,0 +1,7 @@
+======================
+Context sensitive Help
+======================
+
+The relevant page from Help Activity is now open in a window within the Terminal.
+
+.. image :: ../images/024.png

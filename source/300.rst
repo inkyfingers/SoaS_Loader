@@ -1,0 +1,78 @@
+===============
+Getting to work
+===============
+
+.. image :: ../images/00_soas1.jpg
+
+We use just three commands. Let's look at them.
+
+For convenience, the commands are also printed in a compact form at the end of the presentation, :doc:`/340`.
+
+Disk free
+---------
+
+::
+  
+  df -Th
+
+We use the disk free program to establish the device location.
+
+(df is used to display the amount of available disk space for filesystems where we have read access.)
+
+We run the command once before inserting the USB stick.
+
+We plug in the target stick.
+
+We run the command again.
+
+The difference between the two outputs provides the the device location identifier, or drive letter.
+
+Unmount
+-------
+
+This command (and the next) require you to be able to edit the command within the Terminal.
+
+It is important to get this right as there is a risk of destroying data (If you aim the `livecd-iso-to-disk` command at your hard drive you could destroy your operating system).
+
+You will edit the command using the arrow keys to move the cursor, the delete key to remove the question mark, then insert the correct drive letter for your target stick.
+
+We will go over this further on, but if editing the command line is new to you there is :doc:`/014` in the *New to Sugar* section.
+
+Unmount the target USB stick.
+
+::
+
+  umount /dev/sd?1
+
+*replacing* **?** *with your drive letter*
+
+livecd-iso-to-disk - 2 GB USB stick
+-----------------------------------
+
+::
+
+  su -c "livecd-iso-to-disk --reset-mbr --overlay-size-mb 450 --home-size-mb 750 --unencrypted-home /run/initramfs/livedev /dev/sd?1" 
+
+*replacing* **?** *with your drive letter*
+
+livecd-iso-to-disk - 4 GB USB stick
+-----------------------------------
+
+::
+
+  su -c "livecd-iso-to-disk --reset-mbr --overlay-size-mb 700 --home-size-mb 2200 --unencrypted-home /run/initramfs/livedev /dev/sd?1"
+
+*replacing* **?** *with your drive letter*
+
+Layout of tutorial
+------------------
+
+The next section is a slide show of the process.
+
+The commands are printed more compactly at the end of the presentation, :doc:`/340`.
+
+|more|
+
+.. |more| image:: ../images/more.png
+
+:doc:`/350`

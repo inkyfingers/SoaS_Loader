@@ -1,0 +1,7 @@
+========================
+Enter df -Th ~~ pass two
+========================
+
+The command runs, giving this output.
+
+.. image :: ../images/315.png

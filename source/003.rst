@@ -1,0 +1,13 @@
+==================
+New Sugar Learners
+==================
+
+.. image :: ../images/003.png
+
+On the next slide we see **F3, Home view, Favourites**. This shows your "favourite" Activities listed in a wheel.
+
+In Sugar you can visit that view now by pressing the function key **F3, Home view**.
+
+You can return to this page by pressing the function key **F4, Activity view**.
+
+*Function keys are the keys along the top of your keyboard, numbered F1 to F12.*

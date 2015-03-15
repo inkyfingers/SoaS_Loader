@@ -1,0 +1,14 @@
+=========================
+Navigation with the Frame
+=========================
+
+.. image :: ../images/009.png
+
+Looking at the top centre of the Frame, highlighted yellow, we see the following icons, indicating Activities running:
+
+Journal, Help, SoaS Loader, Browse. SoaS Loader on a grey background is Active, the others are running in the background.
+
+Looking at the top left of the Frame, highlighted blue, we see icons representing the four views in Sugar:
+
+Neighbourhood view, Group view, Home view, Activity view. Activity view on a grey background is Active.
+

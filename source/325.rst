@@ -1,0 +1,15 @@
+============================================
+Edit the command to correct the drive letter
+============================================
+
+Don't Press "Enter".
+
+Use the arrow keys to move the cursor over the question mark, use the delete key to remove the question mark.
+
+Replace it with the correct drive letter, in the case of this tutorial it is the letter **"d"**.
+
+In your case it will be the identifier you wrote down. This is the most important part of this exercise, you must direct the commands correctly to *your* target USB stick.
+
+.. image :: ../images/325.png
+
+.. image :: ../images/325_1.png

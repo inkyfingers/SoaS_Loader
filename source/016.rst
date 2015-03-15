@@ -1,0 +1,7 @@
+========================
+Return to the wheel view
+========================
+
+Click on the **Favourite view** button on the top right of the screen.
+
+.. image :: ../images/016.png

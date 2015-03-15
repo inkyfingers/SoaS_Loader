@@ -1,0 +1,5 @@
+===================================
+Click on the Terminal Activity icon
+===================================
+
+.. image :: ../images/035.png

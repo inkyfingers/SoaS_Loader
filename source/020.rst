@@ -1,0 +1,9 @@
+=======================
+Start Terminal Activity
+=======================
+
+If you are new to the Terminal, Help is your friend, and contains a useful chapter, in the section, Activities.
+
+**Start new** on the Terminal Activity icon, starts a Terminal.
+
+.. image :: ../images/020.png

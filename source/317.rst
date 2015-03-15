@@ -1,0 +1,7 @@
+===================
+Press F6, Frame key 
+===================
+
+Click on the SoaS Loader Activity icon to switch back to the tutorial.
+
+.. image :: ../images/317.png

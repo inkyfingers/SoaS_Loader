@@ -1,0 +1,50 @@
+=============
+Prerequisites
+=============
+
+Stage 0
+-------
+
+To run this Activity successfully you will have downloaded the Sugar on a Stick .iso from Sugar Downloads_
+. If you are online, you will find that you can follow that link and visit that page. The download itself will not work within this Activity. Please use your usual web browser for the download.
+
+.. _Downloads: http://wiki.sugarlabs.org/go/Sugar_on_a_Stick/Downloads
+
+Stage 1, making a LiveOS host media
+-----------------------------------
+
+Ok, "LiveOS host media" sounds a bit overcomplicated, easiest first, probably you just burned a CD, using the default CD writing software of your operating system.
+
+There are several other options which might suit some users.
+
+You could use a program called UNetbootin following these instructions_. This is useful where you do not have a CD writer.
+
+.. _instructions: http://wiki.sugarlabs.org/go/Sugar_on_a_Stick/Installation_Process
+
+You could use another Sugar on a Stick made with livecd-iso-to-disk.
+
+More experienced uses might use the dd command to make a non-persistent Sugar on a Stick.
+
+Stage 2, the subject of this tutorial
+-------------------------------------
+
+You will then have booted your PC from the above, Stage 1, LiveOS host media.
+
+BIOS boot options
+-----------------
+
+You will need to ensure the computer you plan to use is capable of booting from CD or USB.
+
+On older machines, you will probably need to make a change in the BIOS (see your computer's hardware documentation). Change Boot Order, so that Boot from CD or Boot from USB comes before Boot from Hard Drive.
+
+Many newer computers detect the USB device as a hard drive.
+
+**Tip**
+
+As the copmuter starts up, look out for a message on the screen inviting you to press say F2, F12, F10, Delete, F11 or Esc. Press the appropriate key to interrupt your normal OS boot.
+
+|more|
+
+http://www.pendrivelinux.com/usb-bios-boot-options/
+
+.. |more| image:: ../images/more.png

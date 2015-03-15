@@ -1,0 +1,5 @@
+==============
+Terminal opens
+==============
+
+.. image :: ../images/036.png

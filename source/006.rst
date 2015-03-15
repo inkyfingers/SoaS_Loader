@@ -1,0 +1,9 @@
+===============================
+Click on the Help Activity icon
+===============================
+
+Pressing the Help Activity icon, resumes Help.
+
+A right click displays all options, in this case, resume or **Start new**
+
+.. image :: ../images/006.png

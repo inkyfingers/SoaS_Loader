@@ -1,0 +1,11 @@
+===========================
+Unhide the Terminal Acivity
+===========================
+
+Your newly started version of Sugar (by default) does not include the Terminal Activity in the favourites wheel.
+
+.. image :: ../images/F3zoom.png
+
+Go to **F3, Home view**, click  on the **List view** button on the top right of the screen.
+
+.. image :: ../images/013.png

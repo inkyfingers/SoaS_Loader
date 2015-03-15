@@ -1,0 +1,7 @@
+=============
+Select umount
+=============
+
+Let's take the commands from :doc:`/340`.
+
+.. image :: ../images/321.png

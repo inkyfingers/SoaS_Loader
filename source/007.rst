@@ -1,0 +1,5 @@
+================================
+Help Activity opens at Home page
+================================
+
+.. image :: ../images/007.png

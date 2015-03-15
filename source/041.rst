@@ -1,0 +1,12 @@
+===================
+Press F6, Frame key 
+===================
+
+Press **F6, Frame key** and click on the SoaS Loader Activity icon to switch back to the tutorial.
+
+.. image :: ../images/041.png
+
+If this is all new
+------------------
+
+Remember Help Activity, Terminal page, :doc:`024`.

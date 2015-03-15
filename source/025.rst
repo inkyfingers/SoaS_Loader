@@ -1,0 +1,37 @@
+==================
+Keyboard shortcuts
+==================
+
+.. Note:: Due to a bug in this development version of SoaS Loader, we apologise
+   that the **Copy and Paste buttons** are faulty.
+   
+   In this version of SoaS Loader, please use keyboard shortcuts rather than
+   the Sugar graphical buttons.
+   However for our screen shots, the buttons do demonstarate nicely what is going on.
+
+To give the commands to load our stick we enter the commands one by one in the Terminal Activity and press **Enter.**
+
+You can **type** or *Copy and Paste* the command into the terminal.
+
+The longer, third command is much easier to *Copy and Paste* than to type as it is quite long and involved.
+
+**The use of keyboard shortcuts is often most productive.**
+
+**Copy** - the keyboard shortcut is **Ctrl + C** to copy.
+
+**Paste** - the keyboard shortcut is **Ctrl + Shift + V** to  paste into Terminal Activity. 
+
+(Also convenient is to press the centre mouse button to paste into a terminal.)
+
+Edit toolbar buttons
+--------------------
+
+Terminal Activity and Sugar Stick Builder both have similar Edit toolbars containing the Copy and Paste functions.
+
+*SoaS Loader, showing the Copy button*
+
+.. image :: ../images/025.png
+
+*Terminal Activity, showing Paste button*
+
+.. image :: ../images/025_1.png

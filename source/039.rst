@@ -1,0 +1,5 @@
+==========================
+date appears at the prompt
+==========================
+
+.. image :: ../images/039.png

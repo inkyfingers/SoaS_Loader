@@ -1,0 +1,7 @@
+=====================
+Click the Copy button
+=====================
+
+Use the keyboard shortcut **Ctrl + C** to **Copy** the command. See also :doc:`025`.
+
+.. image :: ../images/033.png

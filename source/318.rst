@@ -1,0 +1,26 @@
+==========================
+Establish the drive letter
+==========================
+
+Notice the changed output is a new line at the bottom representing the newly inserted device.
+
+.. image :: ../images/315.png
+
+The new line reads:
+
+::
+
+/dev/sdd1   vfat  3.7G  4.0K  3.7G   1% /run/media/liveuser/Kingston
+
+``/dev/sdd1`` tells us the device location and in this case the drive letter is **"d"**.
+
+This is important to note. Write down for yourself, **your** drive letter.
+
+Footnote
+::::::::
+
+Your identifier should end with the numeral 1, if not, or you get more than one new line of output, the USB stick you have inserted is not sufficiently ”clean”.
+
+Either of the above indicate that the stick is not in a preferred format, for example FAT 32. If this is your first time doing this sort of job, a new USB stick would be ideal.
+
+The script is able to deal with non-standard cases, but the installation probably will not be automatic, requiring some input from the user.

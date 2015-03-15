@@ -1,0 +1,18 @@
+============
+View toolbar
+============
+
+Please use the View toolbar to get the best view of the page.
+
+.. image :: ../images/005.png
+
+Zoom in, zoom out, or Full screen are possible.
+
+Next up, Help Activity
+----------------------
+
+If you are still new to Sugar you will find lots of help in the Activity Help, exploreded in the next slides.
+
+In Sugar we never "Double Click" icons. A single click is correct.
+
+We can hover the cursor over an icon to reveal what the icon or button does. Usually a click of the "secondary" mouse button, right click, shows an extended list of options for that icon.

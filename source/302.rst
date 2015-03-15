@@ -1,0 +1,9 @@
+=======================
+Copy df -Th ~~ pass one
+=======================
+
+Use the keyboard shortcut **Ctrl + C** to **Copy** the command. See also :doc:`025`.
+
+.. Open the Edit tab and click the Copy button.
+
+.. image :: ../images/302.png

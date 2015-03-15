@@ -1,0 +1,7 @@
+==============
+Script running
+==============
+
+It might take five to twenty minutes ...
+
+.. image :: ../images/336_0.png

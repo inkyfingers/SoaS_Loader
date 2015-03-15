@@ -1,0 +1,13 @@
+========================
+Paste df -Th ~~ pass one
+========================
+
+The Terminal opens.
+
+.. open the Edit tab, click the Paste button.
+
+Use the keyboard shortcut **Ctrl + Shift + V** to **Paste** the command. See also :doc:`025`.
+
+The command appears at the prompt.
+
+.. image :: ../images/304.png

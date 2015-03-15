@@ -1,0 +1,9 @@
+=======================
+Copy livecd-iso-to-disk 
+=======================
+
+Use the keyboard shortcut **Ctrl + C** to **Copy** the command. See also :doc:`025`.
+
+.. Open the Edit tab and click the Copy button.
+
+.. image :: ../images/332.png

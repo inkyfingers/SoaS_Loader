@@ -1,0 +1,5 @@
+=================
+Open the Edit tab
+=================
+
+.. image :: ../images/032.png

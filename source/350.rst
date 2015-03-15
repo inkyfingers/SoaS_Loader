@@ -1,0 +1,35 @@
+===============
+For the curious
+===============
+
+Let's study the livecd-iso-to-disk command in detail.
+
+======================  ========================================================================================
+su -c "  "              A device to give you superuser privileges for just the one command in quotes.
+livecd-iso-to-disk      The script (or program) we are using.
+--reset-mbr             Create a boot record on the target USB stick, does not touch the PC master boot record.
+--overlay-size-mb 450   Sets the amount of space available for software changes like system updates.
+--home-size-mb 750      Sets the amount of space available for changes in user data.
+--unencrypted-home      The stick will not be encrypted.
+/run/initramfs/livedev  The source, on your CD or the LiveOS host you are using
+/dev/sd?1               The target USB stick.
+======================  ========================================================================================
+
+Need to know more
+-----------------
+
+type
+
+::
+
+  livecd-iso-to-disk --help
+
+in the Terminal.
+
+Credits
+-------
+
+This presentation is informed by the Sugar Labs wiki_ and this page in the Fedora documentation_.
+
+.. _wiki: http://wiki.sugarlabs.org/go/Welcome_to_the_Sugar_Labs_wiki
+.. _documentation: http://fedoraproject.org/wiki/How_to_create_and_use_Live_USB

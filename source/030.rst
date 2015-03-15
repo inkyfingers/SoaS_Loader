@@ -1,0 +1,36 @@
+======================================
+Demonstrating Copy and Paste with date
+======================================
+
+Here is a simple command,
+
+::
+
+  date
+
+The computer's output from the command ``date`` is to print out the date.
+
+The following slides demonstrate the process.
+---------------------------------------------
+
+Use your mouse to **select** the command ``date``.
+
+Open the Edit tab,
+
+Click the Copy button,
+
+Press F6, Frame key,
+
+Click on the Terminal Activity button.
+
+Terminal opens
+
+Open the Edit tab
+
+Click the Paste button
+
+The command ``date`` appears at the prompt
+
+Press **Enter**,
+
+The command is run and the result is displayed.

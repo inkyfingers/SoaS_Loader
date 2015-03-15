@@ -1,0 +1,7 @@
+=============
+Press "Enter"
+=============
+
+.. image :: ../images/040.png
+
+The date is displayed and the prompt returns.

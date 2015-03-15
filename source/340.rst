@@ -1,0 +1,39 @@
+============
+Command list
+============
+
+Disk free
+---------
+
+::
+  
+  df -Th
+
+We use the disk free program to establish the drive letter.
+
+Unmount the target USB stick
+::::::::::::::::::::::::::::
+
+::
+
+  umount /dev/sd?1
+
+*replacing* **?** *with* **your** *drive letter*.
+
+livecd-iso-to-disk - 2 GB USB stick
+:::::::::::::::::::::::::::::::::::
+
+::
+
+  su -c "livecd-iso-to-disk --reset-mbr --overlay-size-mb 450 --home-size-mb 750 --unencrypted-home /run/initramfs/livedev /dev/sd?1"
+
+*replacing* **?** *with* **your** *drive letter*.
+
+livecd-iso-to-disk - 4 GB USB stick
+:::::::::::::::::::::::::::::::::::
+
+::
+
+  su -c "livecd-iso-to-disk --reset-mbr --overlay-size-mb 700 --home-size-mb 2200 --unencrypted-home /run/initramfs/livedev /dev/sd?1"
+
+*replacing* **?** *with* **your** *drive letter*.

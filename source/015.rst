@@ -1,0 +1,7 @@
+===========
+Scroll down
+===========
+
+Scroll down the list of Activities, till you see Terminal Activity near the foot of the page. Right click on Terminal Activity to reveal options, and click on **Make favourite**.
+
+.. image :: ../images/015.png

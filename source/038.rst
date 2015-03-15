@@ -1,0 +1,7 @@
+======================
+Click the Paste button
+======================
+
+Use the keyboard shortcut **Ctrl + Shift + V** to **Paste** the command. See also :doc:`025`.
+
+.. image :: ../images/038.png

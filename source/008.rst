@@ -1,0 +1,13 @@
+=========
+The Frame
+=========
+
+The Frame is essential to navigating in Sugar.
+
+.. image :: ../images/F6Frame.png
+
+Access the Frame with the function key, **F6, Frame key**, or by moving the cursor to the "hot" corners of the screen.
+
+If you are new to Sugar look up the Frame in Help Activity.
+
+In the next screen shot, the Frame is brought in over an image we saw earlier.

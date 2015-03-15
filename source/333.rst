@@ -1,0 +1,7 @@
+=========================================
+Press F6, Frame key, to switch Activities
+=========================================
+
+Press the function key F6 to bring in the frame. Click on the icon for Terminal.
+
+.. image :: ../images/333.png

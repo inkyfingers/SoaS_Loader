@@ -1,0 +1,11 @@
+=====================================
+Select the livecd-iso-to-disk command
+=====================================
+
+Now we are ready for the third command.
+
+Two commands are printed on this page :doc:`/340` the first has a recommended layout for a 2 GB stick, the second for a 4 GB stick.
+
+Select the correct long command, make sure you select the whole length of the command. Double check you included the first and last characters correctly.
+
+.. image :: ../images/331.png
