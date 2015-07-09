@@ -1,4 +1,4 @@
-# SoaS_Loader
+# SoaS Loader
 Learn to load Sugar on a Stick onto a USB stick
 
 * In Sugar
