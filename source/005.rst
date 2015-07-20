@@ -11,7 +11,7 @@ Zoom in, zoom out, or Full screen are possible.
 Next up, Help Activity
 ----------------------
 
-If you are still new to Sugar you will find lots of help in the Activity Help, exploreded in the next slides.
+If you are still new to Sugar you will find lots of help in the Activity Help, explored in the next slides.
 
 In Sugar we never "Double Click" icons. A single click is correct.
 

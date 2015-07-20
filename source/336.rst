@@ -1,8 +1,8 @@
-===========
-Press Enter
-===========
+=============
+Script, enter
+=============
 
-Press Enter to start the script running.
+Press **Enter** to start the script running.
 
 It is possible that the script will stop and ask you for for further input, but in most cases the stick will be loaded in one go.
 

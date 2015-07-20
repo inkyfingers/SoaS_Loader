@@ -2,25 +2,18 @@
 Unmount the target device
 =========================
 
-The second command detaches the USB stick from our PC, we *unmount* the USB stick. Let's look at the output representing the target device:
+The second command detaches the USB stick from our PC, we *unmount* the USB stick.
 
-::
-
-/dev/sdd1   vfat  3.7G  4.0K  3.7G   1% /run/media/liveuser/Kingston
-
-When we run the next command it must be directed at the device.
+The command is printed as:
 
 ::
 
   umount /dev/sd?1
 
-The code above contains a question mark which will not be recognised as part of this command.
+but it must be directed the "address" you find for your target USB stick.
 
-You are going to **type** or *select the text, and Copy & Paste* the command into the Terminal.
+The code above contains a question mark which will not be recognised as part of this command. 
 
-Do not press Enter yet, but edit the question mark out of the command and replace it with the drive letter you just established.
+Paste the command (complete with **?**) into the Terminal, then edit the question mark out of the command and replace it with **your** drive letter.
 
-Edit
-::::
-
-To edit a command already typed or copied into the Terminal use the left arrow key to move the cursor to the left into the text. When the cursor is over the **?** press the delete key. Enter the replacement character from the keyboard. Clear the cursor away from the text with the right arrow key. Double check that the command is now correct.
+To edit a command already pasted into the Terminal use the left arrow key to move the cursor to the left into the text. When the cursor is over the **?** press the delete key. Enter the replacement character from the keyboard. Clear the cursor away from the text with the right arrow key. Double check that the command is now correct.

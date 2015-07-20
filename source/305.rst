@@ -1,7 +1,7 @@
-========================
-Enter df -Th ~~ pass one
-========================
+================
+Disk free, enter
+================
 
-The command runs, giving this output.
+Press **Enter**, the command runs giving output like this.
 
 .. image :: ../images/305.png

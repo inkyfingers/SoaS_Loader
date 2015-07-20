@@ -5,21 +5,16 @@
 
 .. image :: ../images/00_soas4.png
 
-Welcome to SoaS Loader Home Page
-================================
+SoaS Loader Home Page and Index
+===============================
 
-In this Activity we describe one way to make Sugar on a Stick.
+In this Activity we describe one way to load Sugar on to a USB Stick.
 
-We shall use the script livecd-iso-to-disc which is included in the LiveOS directory of your Live CD or other LiveOS host media.
+The operating system software we are using is the Fedora Spin named **Sugar on a Stick**, or SoaS_ for short. This presentation is part tutorial, part demonstration. It is not necessary to be online to complete this tutorial. The tutorial contains some links like the one above, which, if you are online, will take you to useful pages on the internet. Use the **"Back button"** at the top of the screen to return to your previous page or use the **"Home button"** to return to this page.
 
-The presentation is part tutorial, part demonstration. For those not familiar with Sugar we try to walk through every keystroke with a screenshot.
+Sugarlabs_ wiki is a source of more information about Sugar.
 
-It is not necessary to be online to complete this tutorial. This tutorial contains some links, which, if you are online, will take you to recommended pages on the internet.
-
-Use the **"Back button"** at the top of the screen to return to your previous page or use the **"Home button"** to return to this page.
-
-Sugarlabs_ wiki is a source of more information.
-
+.. _SoaS: http://spins.fedoraproject.org/soas/
 .. _Sugarlabs: http://wiki.sugarlabs.org/go/Welcome_to_the_Sugar_Labs_wiki
 
 OLPC laptop
@@ -69,6 +64,7 @@ Demonstration
     :maxdepth: 1
 
     030.rst
+    030a.rst
     031.rst
     032.rst
     033.rst
@@ -90,6 +86,7 @@ SoaS Loader work starts here
     :maxdepth: 1
 
     300.rst
+    300a.rst
     301.rst
     302.rst
     303.rst
@@ -97,8 +94,6 @@ SoaS Loader work starts here
     305.rst
     307.rst
     310.rst
-    311.rst
-    312.rst
     313.rst
     314.rst
     315.rst
@@ -122,6 +117,7 @@ SoaS Loader work starts here
     336_1.rst
     337.rst
     338.rst
+    340.rst
 
 Appendix
 --------
@@ -129,7 +125,5 @@ Appendix
 .. toctree::
     :maxdepth: 1
 
-    340.rst
     350.rst
-    351.rst
     360.rst

@@ -1,7 +1,7 @@
-=============
-Select umount
-=============
+==============
+umount, select 
+==============
 
-Let's take the commands from :doc:`/340`.
+Select the command, from :doc:`/300a`.
 
 .. image :: ../images/321.png

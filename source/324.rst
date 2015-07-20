@@ -1,13 +1,11 @@
-============
-Paste umount
-============
+=============
+umount, paste 
+=============
 
 The Terminal opens.
 
-.. open the Edit tab, click the Paste button
+Press the Paste button within the Edit tab.
 
-Use the keyboard shortcut **Ctrl + Shift + V** to **Paste** the command. See also :doc:`025`.
-
-The command will appear at the prompt, but don't press enter.
+The command will appear at the prompt, but don't press Enter.
 
 .. image :: ../images/324.png

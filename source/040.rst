@@ -1,7 +1,12 @@
-=============
-Press "Enter"
-=============
+======================
+Press SoaS Loader icon
+======================
+
+to switch back to this tutorial.
 
 .. image :: ../images/040.png
 
-The date is displayed and the prompt returns.
+If this is all new
+------------------
+
+there are links to Help within Sugar in the section starting :doc:`003`.

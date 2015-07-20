@@ -2,6 +2,6 @@
 Terminal Activity, ready
 =========================
 
-The flashing cursor sits at the end of a short piece of text and is called the prompt.
+The flashing cursor sits at the end of a short piece of text. This is called the prompt.
 
 .. image :: ../images/021.png

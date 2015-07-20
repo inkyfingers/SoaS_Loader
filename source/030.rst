@@ -1,5 +1,5 @@
 ======================================
-Demonstrating Copy and Paste with date
+Demonstrating copy and paste with date
 ======================================
 
 Here is a simple command,
@@ -10,27 +10,24 @@ Here is a simple command,
 
 The computer's output from the command ``date`` is to print out the date.
 
-The following slides demonstrate the process.
----------------------------------------------
+In Sugar, if we want to copy and paste the above command into the terminal, we can take the following steps. The following slides demonstrate the process. We opened Terminal Activity earlier (:doc:`/020`), it is running in the background.
 
-Use your mouse to **select** the command ``date``.
+Use the mouse to select the command.
 
-Open the Edit tab,
+Copy, use the keyboard shortcut **Ctrl + C** (:doc:`/025`).
 
-Click the Copy button,
+Press F6, Frame key to bring in the Frame (:doc:`/008`).
 
-Press F6, Frame key,
+Click on the Terminal Activity icon in the Frame.
 
-Click on the Terminal Activity button.
+Terminal opens.
 
-Terminal opens
+Open the Edit tab.
 
-Open the Edit tab
+Click the Paste button, the command ``date`` appears at the prompt.
 
-Click the Paste button
+Press **Enter** to run the command, and display the output.
 
-The command ``date`` appears at the prompt
+Press F6, Frame key to bring in the Frame again.
 
-Press **Enter**,
-
-The command is run and the result is displayed.
+Press SoaS Loader icon to return to this tutorial.

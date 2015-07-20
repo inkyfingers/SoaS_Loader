@@ -1,5 +1,7 @@
-=================
-Open the Edit tab
-=================
+======================
+Click the Paste button
+======================
+
+The date appears at the prompt.
 
 .. image :: ../images/037.png

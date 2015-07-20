@@ -2,9 +2,6 @@
 Plug in the stick
 =================
 
-The next job is to plug the clean memory stick, the target device, into the PC.
+Plug the clean memory stick, the target device, into the PC or laptop.
 
 Allow a second for the USB stick to be recognized and then run again the first command.
-
-Same again, you are going to **type** or *select the text and Copy and Paste it* into the Terminal, and then press Enter.
-

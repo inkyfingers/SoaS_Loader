@@ -1,7 +1,7 @@
-=====================
-Click the Copy button
-=====================
+===================
+Press F6, Frame key
+===================
 
-Use the keyboard shortcut **Ctrl + C** to **Copy** the command. See also :doc:`025`.
+to bring in the Frame.
 
 .. image :: ../images/033.png

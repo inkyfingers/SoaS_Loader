@@ -1,5 +1,9 @@
-=================
-Open the Edit tab
-=================
+====
+Copy
+====
+
+Use keyboard shortcut **Ctrl + C**
+
+Notice the clipping appears in bottom left corner of screen.
 
 .. image :: ../images/032.png

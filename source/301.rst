@@ -1,11 +1,7 @@
-=========================
-Select df -Th ~~ pass one
-=========================
+=================
+Disk free, select
+=================
 
-We need to **type** or *copy and paste* the first command into the Terminal.
-
-To get started, we select the first command. (In this slide show we demonstrate the Sugar graphical Copy and Paste method. You might choose to type the shorter commands.)
-
-You may find it convenient to select your commands from :doc:`/340`, as this image shows.
+Select the first command, from :doc:`/300a`, as this image shows.
 
 .. image :: ../images/301.png

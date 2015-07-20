@@ -1,9 +1,11 @@
-=======================
-Start Terminal Activity
-=======================
+===================================
+Click on the Terminal Activity icon
+===================================
 
-If you are new to the Terminal, Help is your friend, and contains a useful chapter, in the section, Activities.
+Starts (or resumes the last) Terminal Activity.
 
-**Start new** on the Terminal Activity icon, starts a Terminal.
+If you are new to the Terminal, Help Activity is your friend, and contains a useful chapter in the section Activities.
 
 .. image :: ../images/020.png
+
+In this image we see a secondary mouse click (right click) **Start new**.

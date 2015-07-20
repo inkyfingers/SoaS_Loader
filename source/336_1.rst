@@ -6,8 +6,6 @@ Script finishes
 
 "Target device is now set up with a Live image!"
 
-Your persistent Sugar on a Stick is ready to run.
-
-Shut down your old Sugar system and boot the new!
+Shutdown the physical machine. Remember to remove the CD (or other host media you just used).
 
 .. image :: ../images/336_1.png

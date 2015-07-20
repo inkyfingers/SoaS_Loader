@@ -2,9 +2,9 @@
 Further help
 ============
 
-.. image :: ../images/F6Frame.png
+ Bring in the Frame with the **F6, Frame key** (:doc:`008`).
 
-Deploy the :doc:`008` with **F6, Frame key**.
+.. image :: ../images/F6Frame.png
 
 **Right click** on Terminal Activity icon, and click on **View Help**.
 

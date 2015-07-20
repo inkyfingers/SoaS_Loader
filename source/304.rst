@@ -1,12 +1,10 @@
-========================
-Paste df -Th ~~ pass one
-========================
+================
+Disk free, paste
+================
 
 The Terminal opens.
 
-.. open the Edit tab, click the Paste button.
-
-Use the keyboard shortcut **Ctrl + Shift + V** to **Paste** the command. See also :doc:`025`.
+Press the Paste button within the Edit tab.
 
 The command appears at the prompt.
 

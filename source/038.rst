@@ -1,7 +1,9 @@
-======================
-Click the Paste button
-======================
+===========
+Press Enter
+===========
 
-Use the keyboard shortcut **Ctrl + Shift + V** to **Paste** the command. See also :doc:`025`.
+The date is displayed as soon as you press **Enter**.
 
 .. image :: ../images/038.png
+
+Notice, that the prompt returns, ready for the next command.

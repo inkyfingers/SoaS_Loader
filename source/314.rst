@@ -1,13 +1,15 @@
-========================
-Paste df -Th ~~ pass two
-========================
+=============================
+Disk free, re-run the command
+=============================
 
 The Terminal opens.
 
-.. open the Edit tab, click the Paste button.
+There is a feature that allows Terminal Activity to store previously run commands.
 
-Use the keyboard shortcut **Ctrl + Shift + V** to **Paste** the command. See also :doc:`025`.
+With Terminal open on your screen tap the **up arrow** key on the keyboard once.
 
-The command appears at the prompt.
+The last run command appears at the prompt.
 
 .. image :: ../images/314.png
+
+.. Note:: You are able to scroll through all the commands you have run recently with the **up arrow** and **down arrow** keys.

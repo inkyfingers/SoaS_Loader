@@ -2,6 +2,6 @@
 For help in Terminal Activity
 =============================
 
-Press the Help icon in the centre of the tool bar.
+Press the Help icon in the centre of the tool bar to reveal a short help file.
 
 .. image :: ../images/022.png

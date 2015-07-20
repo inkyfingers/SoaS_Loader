@@ -1,8 +1,8 @@
-============
-Enter umount
-============
+=============
+umount, enter
+=============
 
-The command will run with no output, and will return the prompt.
+Press **Enter**. The command will run with no output, and will return the prompt.
 
 The command was accepted and no error reported - fine.
 

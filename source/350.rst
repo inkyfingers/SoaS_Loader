@@ -2,21 +2,44 @@
 For the curious
 ===============
 
-Let's study the livecd-iso-to-disk command in detail.
+Provided with the download is the shell script *livecd-iso-to-disc*, which is included in the LiveOS directory of your Live CD (or other LiveOS media).
+
+Let's study the command we use to run the script *livecd-iso-to-disk* in detail.
+
+::
+
+  su -c "livecd-iso-to-disk --reset-mbr --overlay-size-mb 450 --home-size-mb 750 --unencrypted-home /run/initramfs/livedev /dev/sd?1"
+
 
 ======================  ========================================================================================
 su -c "  "              A device to give you superuser privileges for just the one command in quotes.
 livecd-iso-to-disk      The script (or program) we are using.
 --reset-mbr             Create a boot record on the target USB stick, does not touch the PC master boot record.
---overlay-size-mb 450   Sets the amount of space available for software changes like system updates.
---home-size-mb 750      Sets the amount of space available for changes in user data.
+--overlay-size-mb 450   Sets the amount of space available for system changes.
+--home-size-mb 750      Sets the amount of space available for changes in Activities and user's work.
 --unencrypted-home      The stick will not be encrypted.
-/run/initramfs/livedev  The source, on your CD or the LiveOS host you are using
+/run/initramfs/livedev  The source, on your CD or the LiveOS host you are using.
 /dev/sd?1               The target USB stick.
 ======================  ========================================================================================
 
-Need to know more
------------------
+How did we decide the overlay and home size?
+--------------------------------------------
+
+In the script command these sizes (in mb) are used, with the livecd-iso size a rough estimate. 
+
+============   ====
+livecd-iso     700
+overlay-size   400
+home-size      750
+Total          1850
+============   ====
+
+The numbers we used in the tutorial will fit on a 2 GB USB stick with some unused space.
+
+When you run livecd-iso-to-disk with impossibly large home and overlay sizes, the script will be interrupted and you will be given the chance to specify sizes which will optimally fit your stick.
+
+Need to know more?
+------------------
 
 type
 
@@ -33,3 +56,9 @@ This presentation is informed by the Sugar Labs wiki_ and this page in the Fedor
 
 .. _wiki: http://wiki.sugarlabs.org/go/Welcome_to_the_Sugar_Labs_wiki
 .. _documentation: http://fedoraproject.org/wiki/How_to_create_and_use_Live_USB
+
+|more|
+
+http://wiki.sugarlabs.org/go/Sugar_on_a_Stick/Project_sitemap
+
+.. |more| image:: ../images/more.png

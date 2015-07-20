@@ -1,5 +1,5 @@
 ==============
-Frame Settings
+Frame settings
 ==============
 
 .. image :: ../images/012.png

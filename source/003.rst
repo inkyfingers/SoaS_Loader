@@ -1,5 +1,5 @@
 ==================
-New Sugar Learners
+New Sugar learners
 ==================
 
 .. image :: ../images/003.png

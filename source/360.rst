@@ -2,49 +2,59 @@
 Prerequisites
 =============
 
-Stage 0
--------
+To run this Activity successfully you must be running the Fedora Spin named **Sugar on a Stick**. 
 
-To run this Activity successfully you will have downloaded the Sugar on a Stick .iso from Sugar Downloads_
-. If you are online, you will find that you can follow that link and visit that page. The download itself will not work within this Activity. Please use your usual web browser for the download.
+Stage 0, Download
+-----------------
 
-.. _Downloads: http://wiki.sugarlabs.org/go/Sugar_on_a_Stick/Downloads
+Involves downloading the *Sugar_on_a_Stick.iso* from Sugar Downloads_.
 
-Stage 1, making a LiveOS host media
------------------------------------
+If you are not yet running Sugar, the linked page contains more information about the SoaS download and getting it.
 
-Ok, "LiveOS host media" sounds a bit overcomplicated, easiest first, probably you just burned a CD, using the default CD writing software of your operating system.
+Stage 1, Make bootable media
+----------------------------
 
-There are several other options which might suit some users.
+The software contained in the download can be transferred to a CD to make a bootable Live CD. This is referred to as burning or writing a CD. This can be done using the default CD writing software of a PC.
 
-You could use a program called UNetbootin following these instructions_. This is useful where you do not have a CD writer.
+There are other options which might suit some users.
 
-.. _instructions: http://wiki.sugarlabs.org/go/Sugar_on_a_Stick/Installation_Process
+You could use a program called UNetbootin_ to write the Sugar image to a USB stick, following these instructions_. This is useful where you do not have a CD writer.
 
-You could use another Sugar on a Stick made with livecd-iso-to-disk.
+Expert Linux command line uses might use the dd command to transfer the *Sugar_on_a_Stick.iso* to a USB stick.
 
-More experienced uses might use the dd command to make a non-persistent Sugar on a Stick.
+Both of the above methods produce a non-persistent Sugar on a Stick. A non-persistent Sugar on a Stick, like a Live CD, cannot save work after shutdown and reboot.
+ 
+You could also use another Sugar on a Stick made using the SoaS Loader method.
+
+You will then have booted your PC from one of the above.
 
 Stage 2, the subject of this tutorial
 -------------------------------------
 
-You will then have booted your PC from the above, Stage 1, LiveOS host media.
+SoaS Loader transfers the software producing a USB stick, or flashdrive, with *persistence*, where all work and changes are automatically saved, provided the system is shutdown correctly.
 
 BIOS boot options
 -----------------
 
-You will need to ensure the computer you plan to use is capable of booting from CD or USB.
+You will need to ensure the computer you plan to use is capable of booting from a USB stick.
 
-On older machines, you will probably need to make a change in the BIOS (see your computer's hardware documentation). Change Boot Order, so that Boot from CD or Boot from USB comes before Boot from Hard Drive.
+On older machines, you will probably need to make a change in the BIOS_ (see your computer's hardware documentation, it can often be found online). Change the Boot Order, so that "Boot from CD" or "Boot from USB" comes before "Boot from Hard Drive".
 
 Many newer computers detect the USB device as a hard drive.
 
-**Tip**
-
-As the copmuter starts up, look out for a message on the screen inviting you to press say F2, F12, F10, Delete, F11 or Esc. Press the appropriate key to interrupt your normal OS boot.
+**Tip** As the computer starts up, look out for a message on the screen inviting you to press a key, say F2, F12, F10, Delete, F11 or Esc. Press the appropriate key to interrupt the regular boot.
 
 |more|
 
 http://www.pendrivelinux.com/usb-bios-boot-options/
 
+If you need more information, search for Change the Boot Order in BIOS, with the make and/or model of your machine in the search.
+
+
+
+
+.. _BIOS: https://en.wikipedia.org/wiki/BIOS
+.. _Downloads: http://wiki.sugarlabs.org/go/Sugar_on_a_Stick/Downloads
+.. _instructions: http://wiki.sugarlabs.org/go/Sugar_on_a_Stick/Installation_Process
+.. _UNetbootin: https://en.wikipedia.org/wiki/UNetbootin
 .. |more| image:: ../images/more.png

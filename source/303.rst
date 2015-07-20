@@ -1,5 +1,7 @@
-===================================================
-Press F6, Frame key, to switch to Terminal Activity
-===================================================
+===================
+Press F6, Frame key
+===================
+
+to switch to Terminal Activity.
 
 .. image :: ../images/303.png

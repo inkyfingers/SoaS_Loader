@@ -2,6 +2,6 @@
 Press F6, Frame key 
 ===================
 
-Click on the SoaS Loader Activity icon if you want to switch back to the tutorial. If you have loaded your USB stick successfully, congratulations.
+Click on the SoaS Loader Activity icon if you want to switch back to the tutorial.
 
 .. image :: ../images/337.png

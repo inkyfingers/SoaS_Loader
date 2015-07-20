@@ -2,6 +2,6 @@
 Press F6, Frame key 
 ===================
 
-Click on the SoaS Loader Activity icon to switch back to the tutorial.
+Click on the SoaS Loader Activity icon any time you want to switch back to the tutorial.
 
 .. image :: ../images/307.png

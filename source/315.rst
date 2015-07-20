@@ -1,7 +1,7 @@
-========================
-Enter df -Th ~~ pass two
-========================
+=======================
+Second disk free, enter
+=======================
 
-The command runs, giving this output.
+When you press **Enter**, the command runs, giving output like this.
 
 .. image :: ../images/315.png

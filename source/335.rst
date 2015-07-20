@@ -1,9 +1,9 @@
-=======================
-Edit livecd-iso-to-disk
-=======================
+=========================
+Script, edit drive letter
+=========================
 
-Again you must use the arrow keys to remove the question mark from the pasted command and replace it with the correct drive letter. Here we use **"d"**.  Make sure you use *your* correct drive letter.
+Don't Press **Enter** yet.
 
-If you are still at all uncertain why we used a letter "d" in this tutorial, please go back over the instructions.
+Edit the command to correct the drive letter.
 
 .. image :: ../images/335.png

@@ -1,5 +1,5 @@
-==============
-Terminal opens
-==============
+=================
+Open the Edit tab
+=================
 
 .. image :: ../images/036.png

@@ -1,17 +1,13 @@
-========================
-Paste livecd-iso-to-disk
-========================
+=============
+Script, paste
+=============
 
 The Terminal opens.
 
-.. open the Edit tab, click the Paste button.
+Press the Paste button within the Edit tab.
 
-Use the keyboard shortcut **Ctrl + Shift + V** to **Paste** the command. See also :doc:`025`.
+The command appears at the prompt. Don't press Enter.
 
-The command appears at the prompt.
-
-Don't press Enter.
-
-Double check you have copied the whole command, complete with the closing **"**.
+Double check you have copied the whole command (check first and last characters).
 
 .. image :: ../images/334.png
