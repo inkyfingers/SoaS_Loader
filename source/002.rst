@@ -6,4 +6,25 @@ The first pages of this tutorial are aimed at new Sugar Learners. If you are fam
 
 To make Sugar on a Stick by this method **you must be running a SoaS Live CD or other LiveOS host media.** The page, :doc:`/360`, reviews how to obtain this. This presentation assumes you are running that environment.
 
-You will need a clean USB memory stick, to use as the target device. You may use a 2 GB or a 4 GB stick, there is a suitable command for each size.
+You will need a clean USB memory stick, to use as the target device. There is a suitable command for a 2 GB or a 4 GB stick.
+
+The Activity, SoaS Loader is started from the F3, Home View:
+
+.. image :: ../images/002a.png
+
+To use the online version
+-------------------------
+
+Open Browse Activity.
+
+.. image :: ../images/002b.png
+
+In the address bar, type
+
+::
+
+  http://soas-loader.readthedocs.org
+
+the presentation opens.
+
+.. image :: ../images/002c.png
