@@ -10,7 +10,7 @@ SoaS Loader Home Page and Index
 
 In this Activity we describe one way to load Sugar on to a USB Stick.
 
-The operating system software we are using is the Fedora Spin named **Sugar on a Stick**, or SoaS_ for short. This presentation is part tutorial, part demonstration. It is not necessary to be online to complete this tutorial. The tutorial contains some links like the one above, which, if you are online, will take you to useful pages on the internet. Use the **"Back button"** at the top of the screen to return to your previous page or use the **"Home button"** to return to this page.
+We are using the Fedora Spin named **Sugar on a Stick**, or SoaS_ for short. The tutorial contains some links like the one above, which, if you are online, will take you to useful pages on the internet. If using the Activity use the **Back button** at the top of the screen to return to your previous page or use the **Home button** to return to this page.
 
 Sugarlabs_ wiki is a source of more information about Sugar.
 
@@ -55,6 +55,7 @@ New to Sugar
     022.rst
     023.rst
     024.rst
+    024_1.rst
     025.rst
 
 Demonstration

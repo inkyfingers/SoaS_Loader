@@ -8,7 +8,7 @@ To make Sugar on a Stick by this method **you must be running a SoaS Live CD or 
 
 You will need a clean USB memory stick, to use as the target device. There is a suitable command for a 2 GB or a 4 GB stick.
 
-The Activity, SoaS Loader is started from the F3, Home View:
+The **Activity**, SoaS Loader, is started from the F3, Home View:
 
 .. image :: ../images/002a.png
 
